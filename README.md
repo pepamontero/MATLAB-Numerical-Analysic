@@ -4,6 +4,8 @@ This repository conteins a collection of MATLAB scripts from the subjects Numeri
 
 ## Contents
 
-* A folder "Numerical methods", consisting of
-* A folder "Numerical analysis", consisting of
+* A folder **"numerical-methods"**, including
+  * a list of problems proposed by my teacher (in pdf format)
+  * my solutions to each of these problems (in MATLAB)
+* A folder **numerical-analysis**, including?
 
